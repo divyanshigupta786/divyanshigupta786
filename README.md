@@ -71,11 +71,14 @@ An AI-powered project focused on making useful information and services more acc
 - Focus: AI-powered assistance and accessibility.
 - Repository: [Find JanSetu AI](https://github.com/divyanshigupta786)
 
-### 🌿 WildSense
-A project focused on wildlife, nature, and technology-driven solutions.
 
-- Focus: Wildlife awareness and conservation technology.
-- Repository: [Find WildSense](https://github.com/divyanshigupta786)
+### 🌿 Mundane
+
+A technology-driven project focused on creating practical solutions for everyday needs.
+
+- 💡 **Focus:** Everyday problem-solving through technology.
+- 🌐 **Live Demo:** [Visit Mundane](https://dev-challenge-2-ten.vercel.app/)
+- 💻 **GitHub Repository:** [View GitHub Profile](https://github.com/divyanshigupta786)
 
 ---
 
